@@ -100,5 +100,5 @@ To choose between the Bow & Arrow, Boomerang, or Bomb you can press 'A' or LeftA
 
 Press "C" to enter a character select screen, allowing you to play as a Goriya or a Stalfos.
 
-## Sprint 5
-Features that were added in Sprint 5 include Dungeon 2, Gamepad/controller input support, Player 2/Co-op via Navi, character selection, and special moves.
+## New Content
+Features that were added in this project that were not part of the original game include Player 2/Co-op via Navi, character selection, and special moves.
