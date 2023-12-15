@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tNvarwI2+6gOO6qPWqX/UHBitxR8zWlFPLjF8vzB9ZqgMQi//Y2aWgMXnXAfGnVOflVoLy6tk0rgn9roShkiZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bjhor\\source\\repos\\TheLegendOfZelda\\TheLegendOfZelda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bjhor\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\bjhor\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}

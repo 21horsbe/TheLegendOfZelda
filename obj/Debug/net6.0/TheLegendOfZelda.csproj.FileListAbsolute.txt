@@ -1,0 +1,138 @@
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\TheLegendOfZelda.exe
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\TheLegendOfZelda.deps.json
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\TheLegendOfZelda.runtimeconfig.json
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\TheLegendOfZelda.dll
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\TheLegendOfZelda.pdb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\bjhor\source\repos\TheLegendOfZelda\obj\Debug\net6.0\TheLegendOfZelda.csproj.AssemblyReference.cache
+C:\Users\bjhor\source\repos\TheLegendOfZelda\obj\Debug\net6.0\TheLegendOfZelda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bjhor\source\repos\TheLegendOfZelda\obj\Debug\net6.0\TheLegendOfZelda.AssemblyInfoInputs.cache
+C:\Users\bjhor\source\repos\TheLegendOfZelda\obj\Debug\net6.0\TheLegendOfZelda.AssemblyInfo.cs
+C:\Users\bjhor\source\repos\TheLegendOfZelda\obj\Debug\net6.0\TheLegendOfZelda.csproj.CoreCompileInputs.cache
+C:\Users\bjhor\source\repos\TheLegendOfZelda\obj\Debug\net6.0\TheLegendOfZelda.csproj.CopyComplete
+C:\Users\bjhor\source\repos\TheLegendOfZelda\obj\Debug\net6.0\TheLegendOfZelda.dll
+C:\Users\bjhor\source\repos\TheLegendOfZelda\obj\Debug\net6.0\refint\TheLegendOfZelda.dll
+C:\Users\bjhor\source\repos\TheLegendOfZelda\obj\Debug\net6.0\TheLegendOfZelda.pdb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\obj\Debug\net6.0\TheLegendOfZelda.genruntimeconfig.cache
+C:\Users\bjhor\source\repos\TheLegendOfZelda\obj\Debug\net6.0\ref\TheLegendOfZelda.dll
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\AquamentusSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\BasicBlueBlockSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\BlackBlockSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\BlackScreenSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\BladeTrapSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\BlueStairsBlockSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\BombableWallSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\CharacterSelectSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\DeathSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\DiamondDoorSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\DodongoNarrowSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\DodongoWideSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\DungeonMap2Spritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\DungeonMapSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\File.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\FireBlockSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\GameOverOptionsSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\GameOverSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\GelSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\GoriyaSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\Hadoken.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\HadokenSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\HorizontalRoomConnectorSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\ItemOutlineSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\ItemSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\JewelCutBlueBlockSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\KeeseSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\LeftFacingStatueBlockSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\Legend of Zelda - NES - Dungeon Theme.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\LinkMapDotSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\LinkSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\LockedDoorSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\LOZ_Arrow_Boomerang.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\LOZ_Bomb_Blow.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\LOZ_Bomb_Drop.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\LOZ_Boss_Scream1.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\LOZ_Door_Unlock.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\LOZ_Enemy_Die.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\LOZ_Enemy_Hit.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\LOZ_Fanfare.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\LOZ_Get_Heart.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\LOZ_Get_Item.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\LOZ_Get_Rupee.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\LOZ_Key_Appear.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\LOZ_Link_Die.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\LOZ_Link_Hurt.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\LOZ_LowHealth.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\LOZ_Pickup_Triforce.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\LOZ_Refill_Loop.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\LOZ_Secret.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\LOZ_Shield.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\LOZ_Stairs.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\LOZ_Sword_Shoot.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\LOZ_Sword_Slash.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\LOZ_Text.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\MainHudSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\MapRoomSquareSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\MoonRooms_A7.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\MoonRooms_B1.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\MoonRooms_B7.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\MoonRooms_B8.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\MoonRooms_C1.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\MoonRooms_C2.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\MoonRooms_C3.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\MoonRooms_C4.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\MoonRooms_C5.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\MoonRooms_C6.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\MoonRooms_C7.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\MoonRooms_C8.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\MoonRooms_D2.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\MoonRooms_D3.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\MoonRooms_D4.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\MoonRooms_D5.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\MoonRooms_D6.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\MoonRooms_D7.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\NaviSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\OldManBlockSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\OpenDoorSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\PauseMenuBackgroundSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\PickupSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\ProjectileSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\RightFacingStatueBlockSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\RoomBackgroundSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\RopeSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\SandyBlueBlockSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\StalfosSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\TriforceMapIconsSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\VerticalRoomConnectorSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\WallmasterSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\WaterBlockSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\WhiteBrickBlockSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\WhiteStairsBlockSpritesheet.xnb
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\zelda rooms - A1.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\zelda rooms - A2.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\zelda rooms - A3.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\zelda rooms - B1.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\zelda rooms - B3.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\zelda rooms - B4.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\zelda rooms - B6.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\zelda rooms - C1.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\zelda rooms - C2.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\zelda rooms - C3.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\zelda rooms - C4.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\zelda rooms - C5.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\zelda rooms - C6.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\zelda rooms - D3.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\zelda rooms - D4.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\zelda rooms - D6.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\zelda rooms - E2.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\zelda rooms - E3.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\zelda rooms - F2.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\ZeldaDungeon_1.csv
+C:\Users\bjhor\source\repos\TheLegendOfZelda\bin\Debug\net6.0\Content\ZeldaDungeon_2.csv
